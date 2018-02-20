@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  AntiAntiAim.cpp
+  Autowall.cpp
+  Backtracking Rage.cpp
+  CRC32.cpp
+  Chams.cpp
+  Controls.cpp
+  DLLMain.cpp
+  Dumping.cpp
+  ESP.cpp
+  EdgyLagComp.cpp
+  Entities.cpp
+  GUI.cpp
+  Globalshhh.cpp
+  Hacks.cpp
+  Hooks.cpp
+  ReflectiveLoader.cpp
+  Interfaces.cpp
+  LegitBot.cpp
+  MathFunctions.cpp
+  Menu.cpp
+  MetaInfo.cpp
+  MiscHacks.cpp
+  NetVarManager.cpp
+  NetVars.cpp
+  Offsets.cpp
+  RageBot.cpp
+  RenderManager.cpp
+  Resolver.cpp
+  SpoofedConvar.cpp
+  UTIL Functions.cpp
+  Utilities.cpp
+  Visual.cpp
+  Window.cpp
+  tinyxml2.cpp
+     Creating library .\Release\Mirror.tk.lib and object .\Release\Mirror.tk.exp
+  csgocheat.vcxproj -> C:\Users\chris\Desktop\Hex\mirror\Source\CHEAT\.\Release\Mirror.tk.dll
